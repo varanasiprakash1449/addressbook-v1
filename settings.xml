@@ -18,33 +18,33 @@
       <repositories>
         <repository>
           <snapshots>
-            <enabled>false</enabled>
+            <enabled>true</enabled>
           </snapshots>
           <id>central</id>
           <name>addbook-libs-release</name>
-          <url>https://preethidevopsdemo.jfrog.io/artifactory/addbook-libs-release</url>
+          <url>https://trialcoc2x9.jfrog.io/artifactory/warfile-libs-release/</url>
         </repository>
         <repository>
           <snapshots />
           <id>snapshots</id>
           <name>addbook-libs-snapshot</name>
-          <url>https://preethidevopsdemo.jfrog.io/artifactory/addbook-libs-snapshot</url>
+          <url>https://trialcoc2x9.jfrog.io/artifactory/warfile-libs-release/</url>
         </repository>
       </repositories>
       <pluginRepositories>
         <pluginRepository>
           <snapshots>
-            <enabled>false</enabled>
+            <enabled>true</enabled>
           </snapshots>
           <id>central</id>
           <name>addbook-libs-release</name>
-          <url>https://preethidevopsdemo.jfrog.io/artifactory/addbook-libs-release</url>
+          <url>https://trialcoc2x9.jfrog.io/artifactory/warfile-libs-release/</url>
         </pluginRepository>
         <pluginRepository>
           <snapshots />
           <id>snapshots</id>
           <name>addbook-libs-snapshot</name>
-          <url>https://preethidevopsdemo.jfrog.io/artifactory/addbook-libs-snapshot</url>
+          <url>https://trialcoc2x9.jfrog.io/artifactory/warfile-libs-release/</url>
         </pluginRepository>
       </pluginRepositories>
       <id>artifactory</id>
