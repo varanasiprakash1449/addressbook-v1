@@ -519,7 +519,7 @@
     <repository>
         <id>central</id>
         <name>a0my3ujvzlfhs-artifactory-primary-0-snapshots</name>
-        <url>https://trialcoc2x9.jfrog.io/artifactory/add-libs-release-libs-snapshot</url>
+        <url>https://trialcoc2x9.jfrog.io/artifactory/add-libs-release-libs-release</url>
     <repository>
 </distributionManagement>
 </project>	
