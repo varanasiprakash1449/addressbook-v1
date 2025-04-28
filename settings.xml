@@ -18,7 +18,7 @@
       <repositories>
         <repository>
           <snapshots>
-            <enabled>false</enabled>
+            <enabled>true</enabled>
           </snapshots>
           <id>central</id>
           <name>demo-libs-snapshot</name>
@@ -34,7 +34,7 @@
       <pluginRepositories>
         <pluginRepository>
           <snapshots>
-            <enabled>false</enabled>
+            <enabled>true</enabled>
           </snapshots>
           <id>central</id>
           <name>demo-libs-snapshot</name>
@@ -44,7 +44,7 @@
           <snapshots />
           <id>snapshots</id>
           <name>demo-libs-snapshot</name>
-          <url>https://trialcoc2x9.jfrog.io/artifactory/demo-libs-snapshot</url>
+          <url>https://trialcoc2x9.jfrog.io/artifactory/demo-libs-release</url>
         </pluginRepository>
       </pluginRepositories>
       <id>artifactory</id>
