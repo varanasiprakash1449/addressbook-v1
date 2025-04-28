@@ -516,10 +516,10 @@
         </profile>
     </profiles>
  <distributionManagement>
-    <snapshotRepository>
-        <id>snapshots</id>
+    <Repository>
+        <id>central</id>
         <name>a0my3ujvzlfhs-artifactory-primary-0-snapshots</name>
-        <url>https://trialcoc2x9.jfrog.io/artifactory/demo-libs-snapshot</url>
-    </snapshotRepository>
+        <url>https://trialcoc2x9.jfrog.io/artifactory/demo-libs-release</url>
+    </Repository>
 </distributionManagement>
 </project>	
