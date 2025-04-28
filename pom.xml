@@ -522,3 +522,4 @@
         <url>https://trialcoc2x9.jfrog.io/artifactory/add-libs-release-libs-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
+</project>	
