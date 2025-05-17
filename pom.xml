@@ -519,7 +519,7 @@
     <repository>
         <id>central</id>
         <name>a0my3ujvzlfhs-artifactory-primary-0-snapshots</name>
-        <url>https://trialcoc2x9.jfrog.io/artifactory/demo-libs-release</url>
+        <url>https://trialadb1zr.jfrog.io/artifactory/k8imagepush-docker-local/</url>
     </repository>
 </distributionManagement>
 </project>	
